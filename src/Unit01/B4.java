@@ -1,3 +1,5 @@
+// Числа, которые делятся на 5 и на 7.
+
 package Unit01;
 
 import java.util.Scanner;
