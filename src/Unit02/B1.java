@@ -1,3 +1,5 @@
+// Вывести на экран таблицу умножения.
+
 package Unit02;
 
 public class B1 {
